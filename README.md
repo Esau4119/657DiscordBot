@@ -15,7 +15,7 @@ A random database topic will be assigned by the instructor to all the students. 
 
 |       Topic Description        |              Date Assigned                 |
 | ------------------------------ | ------------------------------------------ |
-|         your topic             |       the date the topic was assigned      |
+|        Biotechnology industry            |       11:14pm  8/22/23    |
 
 
 All the work in this course is divided into two milestones, each of them has several checkpoints. Checkpoints are cumulative work. That's it, all checkpoints 
