@@ -163,7 +163,7 @@ Once this checkpoint is completed, please fill out the following table with the 
 
 |             Invite Replit Link                |             Discord Link                      |
 | ----------------------------------------------| --------------------------------------------- |
-| https://replit.com/join/cszwvpjsua-esaumedinamedin  | https://discord.gg/hkcyJXAuJ |
+| https://replit.com/join/tngscntmph-esaumedinamedin | https://discord.gg/PN9q9V7pRx |
 
 Once the checkpoint is submitted by its deadline, the instructor will use the above links provided by the student to grade this checkpoint. The instructor will put the bot online on Replit, and will join the Discord server to make sure that the bot is online and connected to the remote database.
 
